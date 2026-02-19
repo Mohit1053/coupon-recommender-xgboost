@@ -1,0 +1,53 @@
+{
+  "High": [
+    {
+      "code": "TIER1_HIGH",
+      "discount_amount": 200,
+      "message": "We miss you! Here's ₹200 OFF your next scrap pickup. Use code: TIER1_HIGH. Valid for 15 days."
+    },
+    {
+      "code": "TIER2_HIGH",
+      "discount_amount": 150,
+      "message": "A special offer just for you! Get ₹150 off your next scrap pickup with RecycleHub. Use code: TIER2_HIGH."
+    },
+    {
+      "code": "TIER3_HIGH",
+      "discount_amount": 175,
+      "message": "Thanks for being a valuable customer! Enjoy ₹175 off your next pickup. Use code: TIER3_HIGH."
+    }
+  ],
+  "Mid": [
+    {
+      "code": "TIER1_MID",
+      "discount_amount": 100,
+      "message": "Get ₹100 off your next scrap pickup! Use code: TIER1_MID before it expires."
+    },
+    {
+      "code": "TIER2_MID",
+      "discount_amount": 75,
+      "message": "You've unlocked ₹75 savings on your next RecycleHub pickup! Use code: TIER2_MID."
+    },
+    {
+      "code": "TIER1_LOW",
+      "discount_amount": 50,
+      "message": "Enjoy ₹50 off as a token of our appreciation! Use code: TIER1_LOW."
+    }
+  ],
+  "Low": [
+    {
+      "code": "TIER2_LOW",
+      "discount_percent": 10,
+      "message": "Welcome to RecycleHub! Get 10% extra on your first pickup. Use code: TIER2_LOW."
+    },
+    {
+      "code": "TIER3_LOW",
+      "discount_amount": 0,
+      "message": "Thank you for choosing to recycle with RecycleHub! Every bit helps."
+    },
+    {
+      "code": "TIER4_LOW",
+      "discount_amount": 0,
+      "message": "Thanks for recycling with us! Stay tuned for exciting future offers and rewards."
+    }
+  ]
+}

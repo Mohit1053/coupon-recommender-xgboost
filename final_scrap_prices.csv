@@ -1,0 +1,41 @@
+Name of Item,Rate,Unit,Per 100 kg Space,Profit Margin,Max Allowed Price,Logistic Cost
+Newspaper,14,kg,Medium,20,17,Low
+Copies/Books,12,kg,Medium,20,14,Low
+Cardboard,8,kg,High,15,10,Medium
+Office Paper (A3/A4),14,kg,Medium,20,17,Low
+PET Bottles/Other Plastic,8,kg,High,15,10,Medium
+Iron,24,kg,Low,12,28,Least
+Steel Utensils,40,kg,Low,12,48,Least
+Aluminium,105,kg,Least,12,126,Very Low
+Brass,305,kg,Least,12,366,Very Low
+Copper,425,kg,Least,12,510,Very Low
+Split AC Copper Coil 1.5 Ton (Indoor + Outdoor),4150,piece,Max,10,4980,High
+Window AC 1.5 Ton (Copper Coil),4050,piece,Max,10,4860,High
+SPLIT/WINDOW AC 1 Ton (Copper Coil),3000,piece,Max,10,3600,High
+WINDOW/SPLIT AC 2 Ton (Copper Coil),5600,piece,Max,10,6720,High
+Front Load Fully Automatic Washing Machine,1350,piece,Max,10,1620,High
+Top Load Fully Automatic Washing Machine,1000,piece,Max,10,1200,High
+Semi Automatic Washing Machine (Double Drum),750,piece,Max,10,900,High
+Single Door Fridge,1200,piece,Max,10,1440,High
+Double Door Fridge,1350,piece,Max,10,1620,High
+Iron Cooler,24,kg,Max,10,29,High
+Plastic cooler,15,kg,Max,10,18,High
+Geyser,20,kg,Medium,20,24,Low
+Printer/scanner/fax machine,20,kg,Medium,20,24,Low
+Metal E-waste,28,kg,Medium,30,34,Low
+Plastic E-waste,15,kg,Medium,20,18,Low
+CRT TV,200,piece,Medium,15,240,Medium
+Ceiling Fan,35,kg,Medium,20,42,Low
+Motors (Copper wiring),35,kg,Low,12,42,Least
+Microwave,350,piece,Medium,20,420,Low
+UPS,180,piece,Low,12,216,Least
+Inverter/Stabilizer (Copper Coil),40,kg,Low,12,48,Least
+Battery(used with inverters),81,kg,Least,12,97,Very Low
+Scrap Laptop,300,piece,Medium,20,360,Low
+CRT Monitor,150,piece,Medium,20,180,Low
+LCD Monitor,20,kg,Medium,20,24,Low
+Computer CPU,225,piece,Medium,20,270,Low
+Bike,2100,piece,Max,10,2520,High
+Car,20000,piece,Max,10,24000,High
+Clothes (Accepted only when given with other scrap items),8,kg,Medium,20,9,Low
+Glass bottles (Accepted only when given with other scrap items),2,kg,Medium,20,3,Low
