@@ -114,3 +114,5 @@ train_Userlog.json
 test_Userlog.json
 generated_Userlog.json
 log.json
+*.pyc
+.mcp.json
